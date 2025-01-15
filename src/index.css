@@ -1,0 +1,30 @@
+body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+
+    .test-list {
+      list-style: none;
+      padding: 0;
+    }
+
+    .test-item {
+      border: 1px solid #ddd;
+      margin-bottom: 10px;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .test-item button {
+      margin-left: 10px;
+    }
+
+    .test-form {
+      margin-bottom: 20px;
+    }
+
+    .test-form input {
+      margin-right: 10px;
+    }
